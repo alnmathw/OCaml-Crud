@@ -1,0 +1,6 @@
+(** @canonical Dune__exe.Crud *)
+module Crud = Dune__exe__Crud
+
+
+(** @canonical Dune__exe.Storage *)
+module Storage = Dune__exe__Storage
